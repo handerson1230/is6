@@ -1,0 +1,42 @@
+.head{
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bolder;
+    color:black;
+    
+}
+
+.body{
+    background-color: black;
+    text-align:left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold;
+    color: lightpink;
+}
+body{
+    background-color:beige;
+}
+.video{
+    text-align: center;
+    background-color: lightblue;
+}
+.img{
+    background-color: lightpink;
+    text-align: center;
+
+}
+.btext{
+    text-align: center;
+    background-color: lightblue;
+
+}
+
+.nav{
+    text-align: right;
+    background-color: lightpink;
+}
+
+.tableauViz{
+    text-align: center;
+}
